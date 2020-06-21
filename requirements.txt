@@ -11,7 +11,7 @@ coreschema==0.0.4
 covid==2.2.10
 distlib==0.3.0
 dj-rest-auth==1.0.7
-Django==2.1.2
+Django==2.2.13
 django-crispy-forms==1.7.2
 django-password-reset==2.0
 django-rest-auth==0.9.5
