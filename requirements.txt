@@ -16,7 +16,7 @@ django-crispy-forms==1.7.2
 django-password-reset==2.0
 django-rest-auth==0.9.5
 django2-rest-passwordreset==1.3.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 filelock==3.0.12
 Flask==1.1.2
 idna==2.9
